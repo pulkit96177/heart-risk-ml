@@ -1,0 +1,5 @@
+health_risk_env/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
